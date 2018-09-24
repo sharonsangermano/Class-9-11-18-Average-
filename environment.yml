@@ -1,0 +1,7 @@
+name: average-test-environment
+dependencies: 
+        - numpy 
+        - pytest
+        - pytest-cov 
+        - pyteset-pep8 
+
